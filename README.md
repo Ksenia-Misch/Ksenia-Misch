@@ -1,4 +1,4 @@
-## Я начинающий QA Engineer 
+## Я junior QA Engineer 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1sZYoop73rJtVNIl14WuIFWg7CG8iA_Ln/view?usp=share_link)
 ### Language and Tools
