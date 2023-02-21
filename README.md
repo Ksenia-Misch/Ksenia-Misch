@@ -1,6 +1,6 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)]
 ## я начинающий QA Engineer 
 ## My CV
+[Link to my CV](https://drive.google.com/file/d/1sZYoop73rJtVNIl14WuIFWg7CG8iA_Ln/view?usp=share_link)
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
