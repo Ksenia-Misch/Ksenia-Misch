@@ -19,4 +19,4 @@
 - [HTML/CSS](https://github.com/Ksenia-Misch/HTML-CSS)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Misch_K)
+[![Header](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Misch_K)
