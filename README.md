@@ -1,6 +1,6 @@
 ## Quality Assurance Engineer 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1sZYoop73rJtVNIl14WuIFWg7CG8iA_Ln/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/1ytD29DJbX3G4UaD9KhlPaj7YEd1C8caG/view?usp=share_link)
 ### Tools
 ![Header](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Header](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
