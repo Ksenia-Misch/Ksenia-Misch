@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Quality assurance Engineer 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1eo2Xl6Pvy5vWxxX3gadbAgkJh6hadsg9/view?usp=share_link)
