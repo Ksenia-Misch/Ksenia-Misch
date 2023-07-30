@@ -12,13 +12,7 @@
 ![Header](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Header](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Testing Documentation
-
-- [Check-lists](https://github.com/Ksenia-Misch/Checklist-)
-- [Test-Cases](https://github.com/Ksenia-Misch/Test-cases)
-- [Bug-Reports](https://github.com/Ksenia-Misch/Bug-reports)
-- [Postman Collections](https://github.com/Ksenia-Misch/Postman-collection-)
-- [HTML/CSS](https://github.com/Ksenia-Misch/HTML-CSS)
-
-### Follow Me
+### My contacts
 [![Header](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Misch_K)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ksenia-Misch&theme=tokyonight&hide_border=)](https://git.io/streak-stats)
